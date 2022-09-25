@@ -99,6 +99,7 @@ const Shop = () => {
                 <div className='mt-10 text-left px-10'>
                     <h4 className='font-bold text-lg my-3'>Selected Items: <span>6</span></h4>
                     <h4 className='font-bold text-lg my-3'>Total Price: $<span>116</span></h4>
+                    <h4 className='font-bold text-lg my-3'>Tax: $<span>116</span></h4>
                     <h4 className='font-bold text-lg my-3'>Total Shipping Charge: $<span>10</span></h4>
                     <h3 className='font-bold text-2xl my-8'>Grand Total: $<span>126</span></h3>
                     <button className='btn btn-sm btn-error mr-6'>Clear Cart</button>
